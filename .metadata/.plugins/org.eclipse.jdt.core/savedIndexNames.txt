@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ASUS1\OneDrive\Documentos\Proyectos Programación\.metadata\.plugins\org.eclipse.jdt.core
+1751156242.index
+1696264553.index
+1865797976.index
